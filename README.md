@@ -45,6 +45,13 @@ LeetCode-Top-150-Solutions/
 
 ## Usage
 
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/LeetCode-Top-150-Solutions.git
+```
+
+## Copyright
+
+© Dev-Limbachia 2024. All rights reserved.
+
+
