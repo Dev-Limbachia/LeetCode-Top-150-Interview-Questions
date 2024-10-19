@@ -45,10 +45,11 @@ LeetCode-Top-150-Solutions/
 
 ## Usage
 
-Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/LeetCode-Top-150-Solutions.git
-```
+You can paste the given code of `solution.java` or `solution.py` into LeetCode's compiler for the **respective problem number** to check the results of all test cases.
+
+> [!NOTE]
+> Change the language to Java or Python as per the code you want to test in LeetCode's compiler.
+
 
 ## Copyright
 
